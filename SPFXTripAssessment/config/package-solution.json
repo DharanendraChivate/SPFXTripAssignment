@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-trip-assessment-client-side-solution",
+    "id": "dec66d76-5eef-4374-a1bd-8557f973003a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-trip-assessment.sppkg"
+  }
+}
